@@ -1,0 +1,13 @@
+.invalid {
+  border: 2px solid red;
+}
+body{
+  background-image: url('https://ce4kids.com/wp-content/uploads/2020/04/95181310_640222039867955_9102330388050608128_o.jpg');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+}
